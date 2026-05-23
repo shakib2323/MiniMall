@@ -59,7 +59,7 @@ javac src/com/nt/p1/MiniMall.java -d out/
 java -cp out com.nt.p1.MiniMall
 ```
 
-### Run from IntelliJ IDEA
+### Run from Eclipse IDE/IntelliJ IDEA
 1. Open the project folder
 2. Mark `src` as Sources Root
 3. Right-click `MiniMall.java` → Run
